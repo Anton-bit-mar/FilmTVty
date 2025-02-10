@@ -19,7 +19,7 @@ main {
 }
 
 body {
-    background: url("../img/background.jpeg");
+    background: url("../image/background.jpeg");
     background-position: 20% 82%;
     background-repeat: no-repeat;
     background-size: cover;
